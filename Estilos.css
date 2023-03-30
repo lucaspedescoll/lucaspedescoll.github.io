@@ -8,10 +8,6 @@
     box-sizing: border-box;
 }
 
-/**html {
-    
-    font-family: 'Cabin', sans-serif;
-   }*/
 
 .header {
     font-stretch: ultra-expanded;
@@ -155,14 +151,10 @@ section {
 }
 
 .menu li:hover {
-    background-color: rgb(116, 27, 116);
+    background-color: rgb(207, 171, 255);
 
 }
 
-
-/**div.col-9 {
-    display: none;
-}*/
 
 #Mostrar_todo_el_cv {
     background-color: rgb(253, 131, 131);
